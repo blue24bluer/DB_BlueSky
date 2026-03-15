@@ -3,3 +3,4 @@ telegram[[:space:]]users[[:space:]]520k,[[:space:]]10k[[:space:]]numbers.txt fil
 *.db filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
