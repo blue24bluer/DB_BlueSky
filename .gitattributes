@@ -1,2 +1,5 @@
 telegram[[:space:]]users[[:space:]]520k,[[:space:]]10k[[:space:]]numbers.txt filter=lfs diff=lfs merge=lfs -text
 .git/lfs/objects/c7/4c/c74c5c84f5349807a2ae04585d238a6c77f02ae193a952a3219b6810abb4ca6b filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
